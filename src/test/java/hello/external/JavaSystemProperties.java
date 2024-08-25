@@ -21,5 +21,6 @@ public class JavaSystemProperties {
         log.info("url: {}", url);
         log.info("username: {}", username);
         log.info("password: {}", password);
+
     }
 }
